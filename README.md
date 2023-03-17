@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-Location:       Berlin ( GMT+1) 
-Booking Cal:    https://www.cal.com/gedw99 
-Telegram:       http://t.me/gedw99 
-Email:          You gotta be joking ... "Fool me once", etc. 
+Location:       Berlin ( GMT+1)
+
+Booking Cal:    https://www.cal.com/gedw99
+
+Telegram:       http://t.me/gedw99
+
+Email:          You gotta be joking ... "Fool me once", etc.
+
+
 
