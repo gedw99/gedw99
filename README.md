@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: nats, golang, wasm stuff ...
+- 🔭 I’m currently working on: Nats, golang, wasm stuff ...
 - 🌱 I’m currently learning: eBPF, to help other teams better ...
-- 👯 I’m looking to collaborate on: open science, open government style projects.
-- 🤔 I’m looking for help with: live the universe and everythng :)
-- 💬 Ask me about: how many plaes i worked and lived as a IT person, and what life opportunities it provides.
+- 👯 I’m looking to collaborate on: Open science, Open government style projects.
+- 🤔 I’m looking for help with: Life the universe and everythng :)
+- 💬 Ask me about: How many plaes i worked and lived as a IT person, and what life opportunities it provides.
 - 😄 Pronouns: dude.
 - ⚡ Fun fact: We are all screwed - Just being an aussie sarcastic noop ...
 
