@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with: live the universe and everythng :)
 - 💬 Ask me about: how many plaes i worked and lived as a IT person, and what life opportunities it provides.
 - 😄 Pronouns: dude.
-- ⚡ Fun fact: We are all screwed - Just being an aussie sarcastic noop !!
+- ⚡ Fun fact: We are all screwed - Just being an aussie sarcastic noop ...
 
 - 📫 How to reach me: 
 
