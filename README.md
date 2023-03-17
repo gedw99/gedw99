@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: nats, golang, wasm stuff ...
 - 🌱 I’m currently learning: eBPF, to help other teams better ...
 - 👯 I’m looking to collaborate on: open science, open government style projects.
@@ -13,13 +11,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: 
 
-Location:       Berlin ( GMT+1)
+  - Location:       Berlin ( GMT+1)
 
-Booking Cal:    https://www.cal.com/gedw99
+  - Booking Cal:    https://www.cal.com/gedw99
 
-Telegram:       http://t.me/gedw99
+  - Telegram:       http://t.me/gedw99
 
-Email:          You gotta be joking ... "Fool me once", etc.
+  - Email:          You gotta be joking ... "Fool me once", etc.
 
 
 
