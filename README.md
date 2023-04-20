@@ -11,13 +11,15 @@
 
 - 📫 How to reach me: 
 
-  - Location:       Berlin ( GMT+1)
+  - Location:               Berlin ( GMT+1)
 
-  - Booking Cal:    https://www.cal.com/gedw99
+  - Booking Cal:            https://www.cal.com/gedw99
 
-  - Telegram:       http://t.me/gedw99
+  - Telegram:               http://t.me/gedw99
 
-  - Email:          You gotta be joking ... "Fool me once", etc.
+  - Email:                  You gotta be joking ... "Fool me once", etc.
+  - 
+  - Notsr (pub key):        npub1cp56200ursryr3wrdu33s8nunvpuwtk0c9dfzqhuqla2hzrwnfcq0028vn
 
 
 
