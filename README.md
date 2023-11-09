@@ -2,9 +2,9 @@
 
 
 - 🔭 I primarily work as a Security Architect, for Multi nationals and Governments.
-- I code in golang and rust.
-- Clouds:Ggoogle, AWS, fly.io.
-- Message brokers like Nats Jetstream.
+- Code: in golang and rust.
+- Clouds: Google, AWS, fly.io.
+- Message brokers: Nats Jetstream, Tibo Rendevous, CQRS patterns.
 - Databases, PostreSQL, Sqlite.
 
 
