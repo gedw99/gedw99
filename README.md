@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: Nats, golang, wasm stuff ...
-- 🌱 I’m currently learning: eBPF, to help other teams better ...
-- 👯 I’m looking to collaborate on: Open science, Open government style projects.
-- 🤔 I’m looking for help with: Life the universe and everythng :)
-- 💬 Ask me about: How many places i worked and lived as a IT person, and what life opportunities it provides.
-- 😄 Pronouns: dude.
+- 🔭 I primarily work as a Security Architect, for Multi nationals and Governments.
+- I code in golang and rust.
+- Clouds:Ggoogle, AWS, fly.io.
+- Message brokers like Nats Jetstream.
+- Databases, PostreSQL, Sqlite.
 
 
 - 📫 How to reach me: 
