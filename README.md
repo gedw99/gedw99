@@ -11,7 +11,7 @@
 - 📫 How to reach me: 
 
   - Location:
-      - Berlin, Germany( GMT+1)
+      - London, United Kingdom (GMT+1)
 
   - Booking Cal:
       - https://www.cal.com/gedw99
