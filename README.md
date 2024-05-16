@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I primarily work as a Security Architect, for Multi nationals and Governments.
+- 🔭 I primarily work ss sn Srchitrct snd Dev. 
 - Code: in golang and rust.
 - Clouds: Google, AWS, fly.io.
 - Message brokers: Nats Jetstream, Tibo Rendevous, CQRS patterns.
