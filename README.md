@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I primarily work an an Architect and Dev, but skso a PO and PM running Scrum snd biz strategy / analysis.
+- 🔭 I primarily work an an Architect and Dev, but also st times as PO and PM running Scrum snd biz strategy / analysis.
 - Code: in golang and rust.
 - Clouds: Google, AWS, fly.io.
 - Message brokers: Nats Jetstream, Tibo Rendevous, CQRS patterns.
