@@ -1,17 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I primarily work an an Architect and Dev, but also as PO and PM running Scrum and biz strategy / analysis.
-- Code: in golang and rust.
-- Clouds: Google, AWS, fly.io.
-- Message brokers: Nats Jetstream, Tibo Rendevous, CQRS patterns.
-- Databases, PostreSQL, Sqlite.
-
-
 - 📫 How to reach me: 
-
-  - Location:
-      - London, United Kingdom (GMT+1)
 
   - Booking Cal:
       - https://www.cal.com/gedw99
